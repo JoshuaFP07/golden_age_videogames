@@ -6,18 +6,6 @@ In this **guided project**, I will analyze video game critics, user scores, and 
 
 My search will involve joining datasets and comparing results with set theory. I will also filter, group, and order data using 
 
-In this project, my primary focus is on addressing key challenges related to shipment and inventory management within the supply chain. To achieve this goal efficiently, the project has been divided into two main objectives:
-
-1. Shipment Delay Analysis:
-   - The first objective involves analyzing the trend of shipment delays over time. By compiling information on the average days of shipment delay.
-   - Through this analysis, I intend to provide valuable insights into the efficiency of the shipment process, enabling us to identify potential areas for improvement to reduce delays and enhance overall performance.
-
-2. Supply vs Demand Ratio:
-   - The second objective is centered around analyzing the ratio between supply and demand for each product in the supply chain.
-   - By determining the Supply vs Demand ratio, we can identify situations of overstock or understock for individual products. This insight will aid in optimizing inventory management, ensuring products are efficiently stocked and reducing any potential inventory-related inefficiencies.
-
-By focusing on these specific objectives, we aim to gain a comprehensive understanding of supply chain dynamics, highlight potential inefficiencies, and create insightful dashboards that will inform business stakeholders about current challenges and propose structural improvements to enhance overall operations. The smaller objectives allow for a targeted and time-efficient approach in achieving our overarching goals.
-
 ### Understanding Data
 In the second step, the data analysis is performed using Python in Google Colab to gain insights about the data. This involves various data preprocessing, cleaning, and transformation tasks to prepare the data for further analysis. Additionally, exploratory data analysis (EDA) is conducted to gain insights into the data and identify any patterns or trends.
 
