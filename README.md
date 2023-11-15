@@ -6,12 +6,10 @@ In this **guided project**, I will analyze video game critics, user scores, and 
 
 My search will involve joining datasets and comparing results with set theory. I will also filter, group, and order data using 
 
-### Understanding Data
-In the second step, the data analysis is performed using Python in Google Colab to gain insights about the data. This involves various data preprocessing, cleaning, and transformation tasks to prepare the data for further analysis. Additionally, exploratory data analysis (EDA) is conducted to gain insights into the data and identify any patterns or trends.
+### Data
+We will explore the top 400 best-selling video games created between 1977 and 2020. We'll compare a dataset on game sales with critics and user reviews to determine whether or not video games have improved as the gaming market has grown. The database itself contains two tables which it is limited to 400 rows for each table. The complete dataset is on Kaggle with over 13,000 games. 
 
-To view the detailed step-by-step process, you can refer to the provided link. The link will lead you to a comprehensive notebook or script that outlines the data analysis procedures. This step is crucial in understanding the data and extracting valuable information for the subsequent objectives of the project.
-
-[Supply Chain Analytics - Google Colab](https://colab.research.google.com/drive/1ykLX2CpRw2kkkcimGf9TYu7u5z2Azbz9?usp=sharing)
+Dataset source = https://www.kaggle.com/holmjason2/videogamedata
 
 ### Data Visualization and Analysis using Power BI
 
