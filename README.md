@@ -1,8 +1,12 @@
 # When Was the Golden Age of Video Games?
 
+<img src="/images/video_game.png" alt="A video game player choosing a game to play on Nintendo Switch." width="400">
+
+<p>Photo by <a href="https://unsplash.com/@retromoon">Dan Schleusser</a> on <a href="https://unsplash.com">Unsplash</a>.</p>
+
 ## Objectives
 
-In this **guided project** from Datacamp, I will analyze video game critics, user scores, and sales data for the top 400 video games released since 1977. I will search for a golden age of video games by identifying release years that users and critics liked best and will explore the business side of gaming by looking at game sales data.
+In this **guided project** from **Datacamp**, I will analyze video game critics, user scores, and sales data for the top 400 video games released since 1977. I will search for a golden age of video games by identifying release years that users and critics liked best and will explore the business side of gaming by looking at game sales data.
 
 My search will involve joining datasets and comparing results with set theory. I will also filter, group, and order data using.
 
