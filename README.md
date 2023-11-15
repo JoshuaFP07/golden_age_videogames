@@ -1,6 +1,6 @@
 # When Was the Golden Age of Video Games?
 
-![Alt Text](/images/video_game.png){width = "400"}
+<img src="https://assets.datacamp.com/production/project_1413/img/video_game.jpg" alt="A video game player choosing a game to play on Nintendo Switch." width="400">
 
 ## Objectives
 
