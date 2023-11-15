@@ -1,6 +1,6 @@
 # When Was the Golden Age of Video Games?
 
-![Alt Text](/images/video_game.png)
+![Alt Text](/images/video_game.png){width = "400"}
 
 ## Objectives
 
