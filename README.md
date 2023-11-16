@@ -19,8 +19,8 @@ Dataset source = https://www.kaggle.com/holmjason2/videogamedata
 - Jupyter Notebook for interactive exploration and documentation
 - SQL for querying and data manipulation
 
-## Thank You
-Thank you for your interest in my project repository. I would greatly appreciate any feedback, suggestions, or critiques that you may have as it will increase my documentation skills of my newer projects and my analytical skills on data.
+## Closing
+I appreciate your interest in my project repository. I am open to any feedback, suggestions, or critiques you want to give me as it will increase my documentation skills for my newer projects and my analytical skills on data.
 
 Feel free to reach me out 
 
