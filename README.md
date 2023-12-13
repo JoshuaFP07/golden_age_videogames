@@ -6,7 +6,7 @@
 
 ## Objectives
 
-In this **project** from **Datacamp**, I will analyze video game critics, user scores, and sales data for the top 400 video games released since 1977. I will search for a golden age of video games by identifying release years that users and critics liked best and will explore the business side of gaming by looking at game sales data.
+In this **project** from, I will analyze video game critics, user scores, and sales data for the top 400 video games released since 1977. I will search for a golden age of video games by identifying release years that users and critics liked best and will explore the business side of gaming by looking at game sales data.
 
 My search will involve joining datasets and comparing results with set theory. I will also filter, group, and order data using.
 
